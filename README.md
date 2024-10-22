@@ -1,9 +1,8 @@
-Aquí tienes un ejemplo de un archivo `README.md` que puedes usar para tu proyecto en GitHub. Este documento proporciona información sobre tu aplicación de gestión de tareas y cómo configurarla.
 
 ```markdown
 # Gestor de Tareas con Flask y MongoDB
 
-Este proyecto es un **Gestor de Tareas** desarrollado en **Python** utilizando **Flask** como marco de trabajo web y **MongoDB** como base de datos. La aplicación permite a los usuarios agregar, completar y eliminar tareas de una manera sencilla y eficiente.
+Este proyecto es un **Gestor de Tareas** desarrollado en Python utilizando Flask como marco de trabajo web y MongoDB como base de datos. La aplicación permite a los usuarios agregar, completar y eliminar tareas de una manera sencilla y eficiente.
 
 ## Características
 
