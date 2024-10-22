@@ -80,9 +80,3 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 Si tienes preguntas o sugerencias, no dudes en contactar a [nietog.martin@gmail.com](mailto:nietog.martin@gmail.com).
 
 ```
-
-### Instrucciones
-- Asegúrate de reemplazar `tu_usuario`, `tu_contraseña`, `tu_cluster`, y `tu_correo@example.com` con la información relevante para tu proyecto.
-- Puedes agregar o eliminar secciones según sea necesario para adaptarlo a tu aplicación. 
-
-Si necesitas más ayuda o personalizaciones, ¡avísame!
