@@ -2,13 +2,13 @@
 ```markdown
 # Gestor de Tareas con Flask y MongoDB
 
-Este proyecto es un **Gestor de Tareas** desarrollado en Python utilizando Flask como marco de trabajo web y MongoDB como base de datos. La aplicación permite a los usuarios agregar, completar y eliminar tareas de una manera sencilla y eficiente.
+Este proyecto es un Gestor de Tareas desarrollado en Python utilizando Flask como marco de trabajo web y MongoDB como base de datos. La aplicación permite a los usuarios agregar, completar y eliminar tareas de una manera sencilla y eficiente.
 
 ## Características
 
-- **Interfaz de usuario amigable**: Diseñada con **Bootstrap** para ser responsiva y fácil de usar en cualquier dispositivo.
-- **Gestión de tareas**: Posibilidad de agregar, marcar como completadas y eliminar tareas.
-- **Almacenamiento en la nube**: Utiliza MongoDB para almacenar las tareas de forma segura y accesible.
+- Interfaz de usuario amigable: Diseñada con **Bootstrap** para ser responsiva y fácil de usar en cualquier dispositivo.
+- Gestión de tareas**: Posibilidad de agregar, marcar como completadas y eliminar tareas.
+- Almacenamiento en la nube: Utiliza MongoDB para almacenar las tareas de forma segura y accesible.
 
 ## Requisitos
 
@@ -19,27 +19,21 @@ Este proyecto es un **Gestor de Tareas** desarrollado en Python utilizando Flask
 
 ## Instalación
 
-1. **Clona este repositorio**:
+1. Clona este repositorio:
 
    ```bash
    git clone https://github.com/tu_usuario/gestor_de_tareas.git
    cd gestor_de_tareas
    ```
 
-2. **Crea un entorno virtual** (opcional pero recomendado):
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
-   ```
-
-3. **Instala las dependencias**:
+2. **Instala las dependencias**:
 
    ```bash
    pip install Flask Flask-PyMongo
    ```
 
-4. **Configura la base de datos**:
+3. **Configura la base de datos**:
 
    - Crea una cuenta en [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
    - Crea un nuevo clúster y una base de datos llamada `task`.
@@ -53,7 +47,7 @@ Este proyecto es un **Gestor de Tareas** desarrollado en Python utilizando Flask
      task_list_collection = db['task_list']
      ```
 
-5. **Ejecuta la aplicación**:
+4. **Ejecuta la aplicación**:
 
    ```bash
    python app.py
@@ -63,9 +57,9 @@ Este proyecto es un **Gestor de Tareas** desarrollado en Python utilizando Flask
 
 ## Uso
 
-- **Agregar Tarea**: Completa el formulario en la parte superior de la página principal para agregar una nueva tarea.
-- **Completar Tarea**: Haz clic en el botón "Completar" al lado de la tarea que deseas marcar como completada.
-- **Eliminar Tarea**: Haz clic en el botón "Eliminar" para eliminar una tarea de la lista.
+- Agregar Tarea: Completa el formulario en la parte superior de la página principal para agregar una nueva tarea.
+- Completar Tarea: Haz clic en el botón "Completar" al lado de la tarea que deseas marcar como completada.
+- Eliminar Tarea: Haz clic en el botón "Eliminar" para eliminar una tarea de la lista.
 
 ## Contribuciones
 
@@ -83,7 +77,7 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ## Contacto
 
-Si tienes preguntas o sugerencias, no dudes en contactar a [tu_correo@example.com](mailto:tu_correo@example.com).
+Si tienes preguntas o sugerencias, no dudes en contactar a [nietog.martin@gmail.com](mailto:nietog.martin@gmail.com).
 
 ```
 
